@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 /**
  * @description: Upsert操作的时候需要判断的唯一性索引
  * @author: yout0703
- * @date: 2021-07-07
+ * @date: 2023-07-07
  */
 @Documented
 @Inherited

@@ -3,7 +3,7 @@ package yout.component.pgextend.enums;
 /**
  * @description: 自定义MybatisPlus的PgBaseMapper方法枚举
  * @author: yout0703
- * @date: 2021-07-07
+ * @date: 2023-07-07
  */
 public enum PgMapperMethodEnum {
 
