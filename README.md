@@ -6,7 +6,7 @@ Java 针对 Postgresql 的扩展，基于 mybatis 和 mybatis-plus
 1. 在 pom.xml 文件中引入依赖
 ```xml
 <dependency>
-    <groupId>com.github.zhangchunsheng</groupId>
+    <groupId>yout.component</groupId>
     <artifactId>java-component-pgextend</artifactId>
     <version>1.0.0</version>
 </dependency>
